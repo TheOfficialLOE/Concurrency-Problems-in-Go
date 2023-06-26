@@ -1,3 +1,3 @@
-module github.com/TheOfficialLOE/Concurrency-Problems-in-Go
+module dining-philosophers
 
 go 1.20
